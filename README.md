@@ -1,6 +1,7 @@
 # OmniRecall — Your Local Screen Memory
 
 **Team GradientDescent | OSDHack 2026 — On Device AI**
+
 #Demo video link- https://drive.google.com/file/d/161nhjFwpe22LuZrjpc7oZaqRKXP-9TDA/view?usp=sharing
 
 A fully offline, privacy-first desktop app that lets you semantically search everything you've seen on your screen. No cloud, no APIs, no data leaving your machine.
